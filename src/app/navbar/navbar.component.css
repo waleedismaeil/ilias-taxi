@@ -1,0 +1,26 @@
+.spacer {
+    /* flex: 1 1 auto; */
+    margin: 10px;
+}
+
+mat-toolbar {
+    min-height: 64px;
+}
+
+mat-tab-group {
+    margin-top: 20px;
+}
+
+mat-tab-group {
+    position: relative;
+    /* Ensure positioning context */
+    z-index: 1;
+    /* Set a higher z-index value */
+}
+
+mat-toolbar {
+    position: relative;
+    /* Ensure positioning context */
+    z-index: 0;
+    /* Lower z-index value */
+}

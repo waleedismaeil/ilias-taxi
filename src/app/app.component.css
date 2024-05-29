@@ -1,0 +1,14 @@
+.content {
+    padding: 80px;
+
+}
+
+mat-toolbar {
+    min-height: 64px;
+    /* تعديل الارتفاع حسب الحاجة */
+}
+
+mat-tab-group {
+    margin-top: 80px;
+    /* تعديل المسافة بين شريط التنقل وعناصر التبويب */
+}
