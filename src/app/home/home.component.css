@@ -1,0 +1,25 @@
+.mat-card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch; 
+    padding: 20px; 
+}
+
+.div {
+    display: flex;
+    flex-direction:column; 
+    align-items: center; 
+    flex: 1; 
+}
+.background-span {
+    width: 60px;
+    height: 50px;
+    background-image: url('arrow.png');
+    background-size: cover; 
+    background-position: center; 
+}
+
+.currentLocation, .destination {
+    width: 100%; 
+    margin-bottom: 10px; 
+}
