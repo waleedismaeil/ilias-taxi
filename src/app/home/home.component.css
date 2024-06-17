@@ -28,7 +28,7 @@
 .background-span {
     width: 60px;
     height: 50px;
-    background-image: url('arrow.png');
+    background-image: url('images-home/arrow.png');
     background-size: cover; 
     background-position: center; 
     margin-bottom: 16px;
@@ -42,7 +42,7 @@
     margin-bottom: 10px; 
 }
 .button1{
-    background-image: url('icon.png');
+    background-image: url('images-home/icon.png');
     background-size: cover;
     background-color: #005cbb;
     height: 3px;
@@ -63,7 +63,7 @@
 .div2{
     width: 1000px;
     height: 1000px;
-    background-image: url('austria.jpg');
+    background-image: url('images-home/austria.jpg');
     background-size: contain;
     background-repeat:no-repeat;
     background-position-x:left;
@@ -90,7 +90,7 @@
     flex-direction:column; 
     width: 1500px;
     height: 1000px;
-    background-image: url('taxi.jpeg');
+    background-image: url('images-home/taxi.jpeg');
     background-size:500px;
     background-repeat:no-repeat;
     background-position-x:left;
